@@ -1,0 +1,2 @@
+ErrorDocument 401 /xd/401.html
+ErrorDocument 404 /xd/404.html
